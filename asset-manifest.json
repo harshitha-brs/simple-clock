@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/simple-clock/static/css/main.3bc25549.css",
-    "main.js": "/simple-clock/static/js/main.58f9ad85.js",
+    "main.css": "/simple-clock/static/css/main.4662bf8e.css",
+    "main.js": "/simple-clock/static/js/main.8e087507.js",
     "static/js/787.0157ba9a.chunk.js": "/simple-clock/static/js/787.0157ba9a.chunk.js",
     "static/media/BG.png": "/simple-clock/static/media/BG.0805d1c579b3eb137695.png",
+    "static/media/foot.png": "/simple-clock/static/media/foot.5194e5b20ee3923e9952.png",
+    "static/media/log.png": "/simple-clock/static/media/log.c118d4ab038bbc810580.png",
     "index.html": "/simple-clock/index.html",
-    "main.3bc25549.css.map": "/simple-clock/static/css/main.3bc25549.css.map",
-    "main.58f9ad85.js.map": "/simple-clock/static/js/main.58f9ad85.js.map",
+    "main.4662bf8e.css.map": "/simple-clock/static/css/main.4662bf8e.css.map",
+    "main.8e087507.js.map": "/simple-clock/static/js/main.8e087507.js.map",
     "787.0157ba9a.chunk.js.map": "/simple-clock/static/js/787.0157ba9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bc25549.css",
-    "static/js/main.58f9ad85.js"
+    "static/css/main.4662bf8e.css",
+    "static/js/main.8e087507.js"
   ]
 }
