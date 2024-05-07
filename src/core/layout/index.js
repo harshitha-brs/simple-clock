@@ -10,7 +10,7 @@ export const Layout = (props) => {
           <div className="d-flex flex-grow-1">
             <nav className="courseTitle">
               <button className="navbar-brand border-0">
-                <img src={require("../../logo.png")} alt="logo" />
+                <img src={require("../../log.png")} alt="logo" />
               </button>
             </nav>
             <div className="flex-grow-1">
@@ -34,9 +34,9 @@ export const Layout = (props) => {
 
       <footer className="footer footer-dark">
         <div className="d-flex justify-content-between px-5">
-          <div>ALL RIGHTS RESERVED BRS STUDIO 2022</div>
+          <div>HERE YOU CAN SEE A SIMPLE CLOCK WITH REACT</div>
           <div>
-            <img src={require("../../footer-logo.png")} alt="logo" />
+            <img src={require("../../foot.png")} alt="logo" />
           </div>
         </div>
       </footer>
